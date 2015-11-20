@@ -2,13 +2,13 @@
 In this project, you can create a simple pseudo-distributed hadoop, hive and spark computing environment.
 
 # Some Tarbells and RPM need to download before installation.
-Tarball (Put under tar folder)
+\- Tarball (Put under tar folder)
 
 1. hadoop-2.7.1.tar
 2. apache-hive-1.2.1-bin.tar.gz
 3. spark-1.5.1-bin-hadoop2.6.tar
 
-RPM (Put under rpm folder)
+\- RPM (Put under rpm folder)
 
 1. jdk-7u79-linux-x64.rpm
 
